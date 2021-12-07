@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Room MVP</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="hint_word">Coloque su palabra aqui…</string>
+    <string name="button_save">Guardar</string>
+    <string name="placeholder_text">Texto de relleno</string>
+    <string name="empty_not_saved">La palabra no fue guardada porque el campo esta vacio.</string>
+</resources>
